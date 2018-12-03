@@ -42,7 +42,7 @@ If you'd like to adopt the spec, or list yourself as a backer, file a pull reque
 | M3 Mobile Meds    | [m3meds.com](http://www.m3meds.com)                 | Distributor                             |
 
 <div style="text-align:center;width:100%;">
-<img align="center" src="https://storage.googleapis.com/ocs-media/backers-v1.png" alt="Spec Adopters">
+<img align="center" src="https://storage.googleapis.com/ocs-media/backers-v2.png" alt="Spec Adopters">
 </div>
 
 ### Contributing
@@ -50,6 +50,16 @@ If you'd like to adopt the spec, or list yourself as a backer, file a pull reque
 You can start contributing by sending a pull request to [OpenCannabis/RFC](https://github.com/OpenCannabis/RFC) on
 GitHub. See [CONTRIBUTING.md](./CONTRIBUTING.md) for more information, including guidance on filing pull requests and
 issues.
+
+#### Contributor License Agreements (CLAs)
+
+Each individual and corporate contributor must complete and sign a _Contributor License Agreement_ before contributions
+may be accepted. This agreement stipulates that contributions to the _OpenCannabis Project_ are owned by the _Project_
+and automatically made open source, among other things.
+
+You can preview the CLAs in PDF form before signing. They very closely follow the Apache Foundation CLAs:
+- [Individual Contributor License Agreement (ICLA)](./3/OpenCannabis-ICLA.pdf)
+- [Corporate Contributor License Agreement (CCLA)](./3/OpenCannabis-CCLA.pdf)
 
 ### Guidelines
 
